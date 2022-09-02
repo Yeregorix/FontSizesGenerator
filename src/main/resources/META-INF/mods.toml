@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="font-sizes-generator"
+version="${file.jarVersion}"
+displayName="Font Sizes Generator"
+credits="Contributors"
+authors="Yeregorix"
+description='''
+A client-side mod generating the font-sizes.json file used for pagination.
+'''
